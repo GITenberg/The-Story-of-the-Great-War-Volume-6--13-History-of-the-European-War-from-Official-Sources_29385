@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '4145'
     url: http://www.gutenberg.org/2009/agents/4145
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29385#The-Story-of-the-Great-War-Volume-6--13-History-of-the-European-War-from-Official-Sources
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2009-07-12'
 gutenberg_type: Text
